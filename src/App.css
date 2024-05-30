@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+select{
+   height:30px;
+   width:250px;
+   border:none;
+   outline: none;
+   font-size:20px;
+}
+
+.para{
+  width: 250px;
+  background-color: whitesmoke;
+  margin-top:8px;
+  border:2px solid blanchedalmond;
+  cursor:pointer;
+  text-align: start;
+  font-weight: 600;
+}
